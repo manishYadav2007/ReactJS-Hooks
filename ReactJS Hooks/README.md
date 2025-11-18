@@ -1,7 +1,5 @@
-Here is a detailed, README-style guide on React Hooks, with a deep dive into `useState`.
 
 -----
-
 # A Deep Dive into React Hooks: Mastering `useState`
 
 Welcome to this in-depth guide on React Hooks. This document is designed for students and professionals who want to understand *why* Hooks exist and *how* to master `useState`, the most fundamental hook of all.
