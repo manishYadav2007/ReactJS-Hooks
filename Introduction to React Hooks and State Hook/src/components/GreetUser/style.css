@@ -1,0 +1,33 @@
+
+
+.bg  {
+    min-height: 100vh;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    height: 60px;
+    width: 400px;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    outline: none;
+}
+
+span {
+    font-size: clamp(1rem, 2vw, 2rem);   
+    text-align: center;
+    font-weight: 450;
+}
+
+.text  {
+    margin: 20px 30px;
+}
+
+.container  {
+    margin-top: 50px;
+    text-align: center;
+}
